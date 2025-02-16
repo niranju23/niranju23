@@ -1,4 +1,5 @@
 Hi, I'm Niranju! 👋
+
 I’m a Data Science & AI enthusiast with a strong interest in Machine Learning, Deep Learning, and LLMs. Currently upskilling in model optimization and GenAI, I enjoy solving real-world problems through data-driven insights.
 
 💡 What I Do
